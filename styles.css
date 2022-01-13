@@ -1,1 +1,49 @@
 /* Write your CSS here! */
+section {
+margin-top:50px;
+margin-bottom: 50px;
+margin-right: 150px;
+margin-left: 80px;
+}
+
+section {
+ padding-top: 20px;
+ padding-right: 30px;
+ padding-bottom: 20px;
+ padding-left: 80px;
+}
+
+body {
+    background: linear-gradient(#ff5e7c, #c272d4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 8px;
+    display: block;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: x-large;  
+}
+
+h1 {
+    font-size: medium;
+}
+
+.funParagraph {
+    color:green;
+}
+
+#mainHeading {
+    color: red
+}
+
+img {
+    max-width:100%;
+    height:auto;
+}
