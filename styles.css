@@ -36,15 +36,14 @@ h1 {
 }
 
 .funParagraph {
-    color:white;
+    color:green;
 }
 
-#mainHeader {
+#mainHeading {
     color: red
 }
 
 img {
     max-width:100%;
     height:auto;
-    align-items: center;
 }
